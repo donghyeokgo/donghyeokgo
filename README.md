@@ -1,2 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=24F700&background=B8FFC000&center=true&vCenter=true&multiline=true&width=435&lines=DONGHYEOK)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=47F76E&background=ADFFC700&center=true&vCenter=true&multiline=true&random=true&width=500&height=100&lines=GOGOGOGOGO;Koh+Dong+Hyeok)](https://git.io/typing-svg)
